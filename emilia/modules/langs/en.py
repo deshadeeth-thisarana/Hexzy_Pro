@@ -2,7 +2,7 @@ __lang__ = "🇱🇰 Sinhala"
 
 en = {
     # Global default
-    "Anda bisa lakukan command ini pada grup, bukan pada PM": "ඔයාට මේ කමාන්ඩ් එක රන් කරන්න පුලුවන් ගෲප් වල විතරයි, PM වල බෑ",
+    "Anda bisa lakukan command ini pada grup, bukan pada PM": "ඔයාට මේ කමාන්ඩ් එක රන් කරන්න පුලුවන් ගෲප් වල විතරයි, Privet  බෑ",
     "Anda sepertinya tidak mengacu pada pengguna.": "You don't seem to be referring to a user.",
 
     # chat_status
@@ -35,28 +35,28 @@ Available commands are:
     
 Hi {}, my name is {}! 
 
-I am a group manager bot created by [my master](tg://user?id={}) based on Project Daisy written by [InukaASiTH](https://visi.tk/inukaasith)
+I am a group manager bot Created by [★彡ᵖⓡ𝓪Ｂ卄𝒶𝐒𝒽ค彡★](tg://user?id={}) The Special Thanks For [InukaASiTH](https://visi.tk/inukaasith) & [Isira PiumATH](t.me/IsiRAPiumaTH)
 
 You can find the list of available commands with /help.
 
 Want to Chat with me, send /addchat and reply to my message to start chatting.
 
-[- The Source code is available on Github -](https://github.com/InukaAsith/Daisy.git)
-©2020 by [Infinity JE®](https://infinityje.com). 
+
+©2020 by [SL Tech Com](sltechcom.webnode.com). 
 """,
     "help_text": """
 ආයුබෝවන්!
- ඔයාව Daisy Project එකෙන් රන් වෙන තවත් බොට් කෙනෙකුට සාදරයෙන් පිළිගන්නවා! Have a look at the following for an idea of some of \
+ ඔයාව Cute Girl වෙත සාදරයෙන් පිලිගන්නවා! Have a look at the following for an idea of some of \
 the things I can help you with.
 
 *Main* commands available:
  - /start: බොට් එක ආරම්භ කරන්න.
- - /help: මෙම මැසේජ් එක PM එකකින් යොමු කරයි.
- - /help <module name>: මොඩියුලය පිළිබඳ තොරතුරු PM එකකින් යොමු කරයි.
+ - /help: මෙම මැසේජ් එක Privert Msg එකකින් යොමු කරයි.
+ - /help <module name>: මොඩියුලය පිළිබඳ තොරතුරු Privert Msg එකකින් යොමු කරයි.
  - /donate: අයිතිකරු වෙත ආධාරයක් යොමු කිරීම හා හැකි අයුරින් උපකාර කිරීමට!
  - /settings:
    - in PM: මොඩියුල පිළිබඳ තොරතුරු ඔබට යොමු කරයි.
-   - in a group: ගෲප් එකේ සැකසුම් ඔබට PM එකකින් යොමු කරයි.
+   - in a group: ගෲප් එකේ සැකසුම් ඔබට Privert Msg එකකින් යොමු කරයි.
 
 
 සියලුම Commands / හෝ ! සමඟ ක්‍රියා කරයි.
@@ -64,13 +64,13 @@ the things I can help you with.
 And the following:
 """,
     "donate_text": """Hello, glad to hear you want to donate!
-Need a lot of work for [my creator](https://visi.tk/inukaasith) to take me to my place now, and \
+Need a lot of work for [My Creator](t.me/prabhasha999) to take me to my place now, and \
 every donation helps and motivates him to make me better.
 
 All donated money will be given to a better VPS to host me, and or some food. \
 He is just an ordinary person, so it will really help him!
 
-If you really are interested in donating, please visit www.infinityje.com, Thank you 😁""",
+If you really are interested in donating, please visit www.sltechcom.webnode.com, Thank you 😁""",
     "Kembali": "Back",
     "Hubungi saya di PM untuk mendapatkan daftar perintah.": "සියලු ක්‍රියාත්මක කල හැකි කමාන්ඩ්ස් දැන ගන්න මාව PM එකකින් සම්බන්ඳ කරගන්න.",
     "Tolong": "Help",
@@ -143,7 +143,7 @@ AFK කියල නම් කරාම ඔයා කියන මැසේජ�
 """,
 
     # Antiflood
-    "Keluar!": "පල හුත්තෝ යන්න!",
+    "Keluar!": "තෝ පල යන්න!",
     "Sekarang kamu diam!": "ඔය මගුලෙ කට වහගනින්!",
     "Keluar selama {}!": "පල යන්න මෙච්චර කාලෙකට {}!",
     "Sekarang kamu diam selama {}!": "තොගෙ කට පියාගෙන හිටු මෙච්චර වෙලාවක් {}!",
@@ -200,8 +200,8 @@ Examples of time values: 4m = 4 minutes, 3h = 3 hours, 6d = 6 days, 5w = 5 week.
     # Backups
     "Coba unduh dan unggah ulang file seperti Anda sendiri sebelum mengimpor - yang ini sepertinya rusak!": "Try downloading and reuploading the file as yourself before importing - this one seems to be iffy!",
     "File cadangan tidak valid!": "Invalid backup file!",
-    "Telah terjadi kesalahan dalam import backup Emilia!\nGabung ke [Grup support](https://t.me/EmiliaOfficial) kami untuk melaporkan dan mengatasi masalah ini!\n\nTerima kasih": "Daisy ගේ උපස්ථය ලෝඩ් කර ගැනීමේ සුළු ගැටලුවක් තිබුණි.. නැවත වෙනත් උපස්ථ පිටපතකින් උත්සාහ කර බලන්න!\nJoin our [Group support](https://t.me/InfinityJE) for reporting and troubleshooting this problem!\n\nThank you",
-    "Telah terjadi kesalahan dalam import backup Rose!\nGabung ke [Grup support](https://t.me/EmiliaOfficial) kami untuk melaporkan dan mengatasi masalah ini!\n\nTerima kasih": "ROSE ගේ උපස්ථය ලෝඩ් කර ගැනීමේ සුළු ගැටලුවක් තිබුණි.. නැවත වෙනත් උපස්ථ පිටපතකින් උත්සාහ කර බලන්න!\nJoin our [Group support](https://t.me/InfinityJE) for reporting and troubleshooting this problem!\n\nThank you",
+    "Telah terjadi kesalahan dalam import backup Emilia!\nGabung ke [Grup support](https://t.me/EmiliaOfficial) kami untuk melaporkan dan mengatasi masalah ini!\n\nTerima kasih": "Cute Girl ගේ උපස්ථය ලෝඩ් කර ගැනීමේ සුළු ගැටලුවක් තිබුණි.. නැවත වෙනත් උපස්ථ පිටපතකින් උත්සාහ කර බලන්න!\nJoin our [Group support](https://t.me/gangofmafiateam) for reporting and troubleshooting this problem!\n\nThank you",
+    "Telah terjadi kesalahan dalam import backup Rose!\nGabung ke [Grup support](https://t.me/EmiliaOfficial) kami untuk melaporkan dan mengatasi masalah ini!\n\nTerima kasih": "ROSE ගේ උපස්ථය ලෝඩ් කර ගැනීමේ සුළු ගැටලුවක් තිබුණි.. නැවත වෙනත් උපස්ථ පිටපතකින් උත්සාහ කර බලන්න!\nJoin our [Group support](https://t.me/gangofmafiateam) for reporting and troubleshooting this problem!\n\nThank you",
     "Ada lebih dari satu grup di file ini, dan tidak ada yang memiliki id obrolan yang sama dengan grup ini - bagaimana cara memilih apa yang akan diimpor?": "Theres more than one group here in this file, and none have the same chat id as this group - how do I choose what to import?",
     "Backup berasal chat lain, Saya tidak bisa mengembalikan chat lain kedalam chat *{}*": "Backup comes from another chat, I can't return another chat to chat *{}*",
     "Backup berasal chat lain, Saya tidak bisa mengembalikan chat lain kedalam chat ini": "Backup comes from another chat, I can't return another chat to this chat",
@@ -219,7 +219,7 @@ Examples of time values: 4m = 4 minutes, 3h = 3 hours, 6d = 6 days, 5w = 5 week.
     "masalah bisa di-debug. Pemilik saya akan dengan senang hati membantu, dan setiap bug "
     "dilaporkan membuat saya lebih baik! Terima kasih! 🙂":
         "An exception occured while restoring your data. The process may not be complete. If "
-        "you have a problem with this, contact @InukaASiTH with your backup file, so "
+        "you have a problem with this, contact @prabhasha999 with your backup file, so "
         "issue can be debugged. My owner will be happy to help, and every bug "
         "reported makes me better! Thanks! 🙂",
     "Cadangan sepenuhnya dikembalikan pada *{}*. Selamat datang kembali! 😀": "Backup එක imported කරා ගෲප් එකට! 😀",
@@ -941,7 +941,7 @@ Keep in mind that your message <b>MUST</b> contain some text other than just a b
     "Terbisukan! 😆": "Muted! 😆",
     "Saya tidak akan membungkam diri saya sendiri!": "මම මාවම mute කරගන්නේ නෑ!",
     "Saya tidak bisa menghentikan seorang admin berbicara!": "මට ඇඩ්මින්ල කතාකරන එක නවත්තන්න බෑ!",
-    "Pengguna ini sudah dibungkam!": "මේකා දැනටම මියුටඩ්!",
+    "Pengguna ini sudah dibungkam!": "මේකා දැනටම මියුටඩ්😆!",
     "Pengguna ini tidak ada dalam obrolan!": "මූ මේ චැට් එකේ නෑ!",
     "Anda harus memberi saya nama pengguna untuk menyuarakan, atau membalas seseorang untuk disuarakan.": "ඔයාට කාවහරි මියුට් කරන්න ඕන නම් එයාගෙ මැසේජ් එකකට රිප්ලයි කරන්න නැත්තම් මට එයාගෙ Username එක දෙන්න.",
     "Pengguna ini sudah bisa untuk berbicara pada *{}*.": "මෙම පුද්ගලයාට මෙම ගෲප් එක තුල කත්තාකරන්න දැනටම අවසර තියෙයි.",
@@ -954,8 +954,8 @@ Keep in mind that your message <b>MUST</b> contain some text other than just a b
     "Anda belum menetapkan waktu untuk menonaktifkan pengguna ini!": "මෙම පරිශීලකයා නිශ්ශබ්ද කිරීමට ඔබ කාලයක් නියම කර නැත!",
     "Dibisukan untuk *{}* pada *{}*!": "Muted for *{}* in *{}*!",
     "Dibisukan untuk *{}*!": "Muted for *{}*!",
-    "Pengguna ini sudah dibungkam.": "මූ දැනටම මියුටඩ් .",
-    "Yah sial, aku tidak bisa membisukan pengguna itu.": "රෙද්ද!! මට ඌව මියුට් කරන්න බෑ.",
+    "Pengguna ini sudah dibungkam.": "මූ දැනටම මියුටඩ්😆 .",
+    "Yah sial, aku tidak bisa membisukan pengguna itu.": "සෙද්ද!! මට ඌව මියුට් කරන්න බෑ.",
     "mute_help": """
 *Admin only:*
  - /mute <userhandle>: silences a user. Can also be used as a reply, muting the replied to user.
@@ -1402,7 +1402,7 @@ This also works with /goodbye.
 }
 
 RUN_STRINGS = (
-    "💔 මල්ලියෝ!! ම්ං අර දෙන්නෙක්ට ආදරේ කරේ නෑනේ සුදු මල්ලියෝ!! 💔",
+    "💔  ★彡ᵖⓡ𝓪Ｂ卄𝒶𝐒𝒽ค彡★ කියල චරිතයක්  නෑ ඒ සෙලවෙන මනස 😅!! 💔",
     "❤ ආදලෙයි 150GB ක්!! ❤",
     "ඕයි...! පෙට්ටිය කැඩුවනම් දැන් ලමය බාරගනින්!!",
     "තමුසෙ පිස්සෙක්නෙ ඕයි!",
@@ -1410,7 +1410,7 @@ RUN_STRINGS = (
     "කවුරුන් කෙසේ කීවද ඵරුස වචන භාවිතය ඔබේ අරක පණ නැති කරවයි!!",
     "හායි!! කෝමද පැටියෝ ❣❣",
     "මැරිලත් පැය හතරක් ආදරෙයි.. අම්මපා",
-    "ටෞකන්ඩ මූ යකෝ!!",
+    "උඹ නං පාපයක් ඕයි!!!",
     "ඔයා අදත් මට අර යෝගට් පානය දෙනවද...?",
     "චූ කරල නිදාගනින් අයියේ...",
     "ඔයා හරි සෝයි අනේ.. සෝ කියුට්... 😋",
@@ -1427,7 +1427,7 @@ RUN_STRINGS = (
     "ඔයාට suprise එකක් තියෙයි.. /kickme කියල ගහල බලන්නකෝ 😂",
     "ට්‍රැක්ටරය පැදවීමට මාගේ ඡායාරූප භාවිත කිරීමෙන් වලකින්න ",
     "ඔයාට suprise එකක් තියෙයි.. /kickme කියල ගහල බලන්නකෝ 😂",
-    "ඔන්න බොගේ සරම හැලිලා...හූ....😂",
+    "ඔන්න බොගේ සරම ලිහිලා...හූ....😂",
     "කෙල්ලොන්ගෙ ටොයිලට් එකට එබෙන්න ලැජ්ජ නැද්ද යකෝ... 😁😂 ",
     "පෝන් එක හිරවෙනවාද?? ගලක්මත තබා හොඳින් තලන්න නිසැක ප්‍රතිඵල",
     "ටොයිලට් එකේ ඉද්දි හෙඩ්සෙට් එක ගහන් සින්දු අහන්න එපා ඕයි...",
@@ -1435,9 +1435,9 @@ RUN_STRINGS = (
     "බය තරහ ඇති කරවයි. තරහ වයිරය උපදවයි. වරිරය පසුතැවීම ඇති කරයි. ඔබ බයෙන් ජීවත්වන තුරු ලංකාවේ බඩු මිල පහත නොයයි",
     "රට්ටු හිනස්සන්න එපා මල්ලී.",
     "හදිසි අවස්තාවකදී ගිලන්රථයක් ගෙන්වා ගැනීමට 1990 අමතන්න",
-    "අද බැරි නං හෙටම අපේ ගෲඵ් එකත් එක්ක සෙට් වෙන්න 👉 t.me/gangofmafiateam ❤",
+    "අද බැරි නං හෙටම අපේ ගෲඵ් එකත් එක්ක සෙට් වෙන්න 👉 @gangofmafiateam  ❤",
     "ඔයාට කොච්චර සල්ලි තිබුනත් කොච්චර බලය තිබුනත් කොත්තු කෑවොත් බඩ යන එක නවත්තන්න ඔයාට බෑ 🌮🌮.",
-    "💔 මල්ලියෝ!! ම්ං අර දෙන්නෙක්ට ආදරේ කරේ නෑනේ සුදු මල්ලියෝ!! 💔",
+    "💔මේ  ගෲප් එකත් එක්ක සෙට් වෙලා නැත්තං ලංකාවෙ ඉඳල වැඩකුත් නෑ .😋👉 @gangofmafiateam 💔",
     "ටෞකන්ඩ මූ යකෝ!!!",
     "කවුරුන් කෙසේ කීවද ඵරුස වචන භාවිතය ඔබේ අරක පණ නැති කරවයි!",
     "පොඩිකාලෙ බිව්වෙ පොල්කිරිද මල්ලී 🤑",
