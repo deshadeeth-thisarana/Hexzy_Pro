@@ -1,11 +1,11 @@
 # The Daisy Robot
 All Errors are now fixed and the bot is working fine..
 
-![Daisy](https://telegra.ph/file/d0c0156487ee42d9685e9.jpg)
+![Daisy](https://telegra.ph/file/d668f2b7e106e15e3341a.png)
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/InukaAsith/Daisy.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prabhashapiumantha/cutegirl.git)
 
 A Modular Group management Bot on Sinhala
 
