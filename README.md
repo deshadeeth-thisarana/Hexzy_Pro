@@ -1,7 +1,7 @@
-# The Daisy Robot
+# The Cute Girl Robot
 All Errors are now fixed and the bot is working fine..
 
-![Daisy](https://telegra.ph/file/d668f2b7e106e15e3341a.png)
+![Cute Girl](https://telegra.ph/file/d668f2b7e106e15e3341a.png)
 
 
 
