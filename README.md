@@ -21,7 +21,7 @@ A Modular Group management Bot on Sinhala
 2) Create a new bot from @botfather and copy its api token
 
 ```
-![api](https://telegra.ph/file/9770210e1205bce0e06bb.png)
+![api](https://telegra.ph/file/4c3d0637328936ccee1b6.png)
 
 ```
 3) Click Deploy
@@ -31,17 +31,17 @@ A Modular Group management Bot on Sinhala
 3) Give an app name
 
 ```
-![Appname](https://telegra.ph/file/216e81c30118aeabd6574.png)
+![Appname](https://telegra.ph/file/683afb57d3b124a4abe85.png)
 ```
 3) Paste the Api token copied at token space
 
 ```
-![Token](https://telegra.ph/file/83574a44d10a89ea8e4d9.png)
+![Token](https://telegra.ph/file/bc8a0e5c7250b20f7f148.png)
 ```
 4) Enter url of the app ass https://#Appneme.herokuapp.com
 
 ```
-![url](https://telegra.ph/file/5b159343abc4d3a369ac0.png)
+![url](https://telegra.ph/file/da7607eaccc7e138bed53.png)
 ```
 5)Then Deploy
 
@@ -51,11 +51,16 @@ A Modular Group management Bot on Sinhala
 7) Goto Resources and Turn Worker Emilia to on (by clicking edit)
 
 ```
-![worker](https://telegra.ph/file/eed4d6b0a2177bf7cdf76.png)
+![worker](https://telegra.ph/file/61a4771b8c184effc168a.png)
 ```
-8) Goto Logs and check for the errors
+8) Enable Free Dynos
+
 ```
-![logs](https://telegra.ph/file/06409b6ce522d005a3ad4.png)
+![Work](https://telegra.ph/file/8c653a0bd6b04365f0bfd.png)
+```
+9) Goto Logs and check for the errors
+```
+![logs](https://telegra.ph/file/8a5d3d374ae7e40db379e.png)
 ```
 
 
@@ -238,3 +243,4 @@ Thanks to this user:
 - [Paul Larsen](https://github.com/PaulSonOfLars) - marie creator, inspiration to do many things
 - [Yan Gorobtsov](https://github.com/MrYacha) - for welcome security base and connection base and maybe others
 - [アキト ミズキト](https://github.com/peaktogoo) - for reworked federation module
+- [Inuka Asith](https://github.com/inukaasith) - The Daisy Bot Owner 
