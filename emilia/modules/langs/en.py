@@ -35,19 +35,19 @@ Available commands are:
     
 Hi {}, my name is {}! 
 
-I am a group manager bot🤿 \nCreated by, [My Master](tg://user?id={}) n\The Based on Project Hexzy written by [★彡ᵖⓡ𝓪Ｂ卄𝒶𝐒𝒽ค彡★](t.me/prabhasha999)
+I am a group manager bot🤿. \nCreated by, [My Master](tg://user?id={}) \nThe Based on Project Hexzy written by [★彡ᵖⓡ𝓪Ｂ卄𝒶𝐒𝒽ค彡★](t.me/prabhasha999)
 
 You can find the list of available commands with /help.
 
 Want to Chat with me, send /addchat and reply to my message to start chatting Replying My Message.
 
-
-©2020 by [SL Tech Com](sltechcom.webnode.com).n\©2020 [Gang Of Mafia](t.me/gangofmafiateam)
+[📝The Source Code is Avalable On Github 🖋](https://github.com/Prabhashapiumantha/Hexzy.git)
+©2020 by [SL Tech Com](sltechcom.webnode.com).\n©2020 [Gang Of Mafia](t.me/gangofmafiateam)
 """,
     "help_text": """
 ආයුබෝවන්!
- හායි ඔයාව [Hexzy](t.me/MissHexzy_Bot) [Project](t.me/gangofmafiateam) එකෙන් රන් වෙන තවත් බොට් කෙනෙකුට සාදරයෙන් පිළිගන්නවා!  Have a look at the following for an idea of some of \
-the things I can help you with.
+ හායි ඔයාව [Hexzy](t.me/MissHexzy_Bot) [Project](t.me/gangofmafiateam) එකෙන් රන් වෙන තවත් බොට් කෙනෙකුට සාදරයෙන් පිළිගන්නවා!  
+
 
 *Main* commands available:
  - /start: බොට් එක ආරම්භ කරන්න.
