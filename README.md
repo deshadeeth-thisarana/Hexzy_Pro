@@ -1,11 +1,11 @@
 # The Cute Girl Robot
 All Errors are now fixed and the bot is working fine..
 
-![Cute Girl](https://telegra.ph/file/d668f2b7e106e15e3341a.png)
+![Hexzy](https://telegra.ph/file/23c40c8b88da2370e9743.jpg)
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prabhashapiumantha/CuteGirl.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prabhashapiumantha/Hexza.git)
 
 A Modular Group management Bot on Sinhala
 
