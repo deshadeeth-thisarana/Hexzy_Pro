@@ -152,7 +152,7 @@ def start(update, context):
                 [InlineKeyboardButton(text="🦾 Support Group", url="https://t.me/gangofmafiateam"), InlineKeyboardButton(text="📞  Contact Devoloper", url="https://t.me/prabhasha999")],
                 [InlineKeyboardButton(text="⛑ Help", url="https://t.me/{}?start=help".format(context.bot.username)), InlineKeyboardButton(text="🤖 About Developer", url="https://sltechcom.webnode.com/about-us/")],
                 [InlineKeyboardButton(text="👒 Add me to your group", url="https://t.me/{}?startgroup=new".format(context.bot.username))]])
-            update.effective_message.reply_photo(HEXZY_IMG,
+            update.effective_message.reply_photo(DAISY_IMG,
                 tl(update.effective_message, PM_START_TEXT).format(escape_markdown(first_name), escape_markdown(context.bot.first_name), OWNER_ID),
                 disable_web_page_preview=True,
                 parse_mode=ParseMode.MARKDOWN,
