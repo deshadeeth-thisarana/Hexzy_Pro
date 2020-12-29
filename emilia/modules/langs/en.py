@@ -35,7 +35,7 @@ Available commands are:
     
 Hi {}, my name is {}! 
 
-I am a group manager bot🤿. \nCreated by, [My Master](tg://user?id={}) \nThe Based on Project Hexzy written by [★彡ᵖⓡ𝓪Ｂ卄𝒶𝐒𝒽ค彡★](t.me/prabhasha999)
+I am a group manager bot🤿. \nCreated by, [My Master](tg://user?id={}) \nThe Based on Project Hexzy written by, \n[★彡ᵖⓡ𝓪Ｂ卄𝒶𝐒𝒽ค彡★](t.me/prabhasha999)
 
 You can find the list of available commands with /help.
 
@@ -46,7 +46,7 @@ Want to Chat with me, send /addchat and reply to my message to start chatting Re
 """,
     "help_text": """
 ආයුබෝවන්!
- හායි ඔයාව [Hexzy](t.me/MissHexzy_Bot) [Project](t.me/gangofmafiateam) එකෙන් රන් වෙන තවත් බොට් කෙනෙකුට සාදරයෙන් පිළිගන්නවා!  
+ හායි ඔයාව [Hexzy](t.me/MissHexzy_Bot) Project එකෙන් රන් වෙන තවත් බොට් කෙනෙකුට සාදරයෙන් පිළිගන්නවා!  
 
 
 *Main* commands available:
