@@ -5,7 +5,7 @@ All Errors are now fixed and the bot is working fine..
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prabhashapiumantha/Hexza.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prabhashapiumantha/Hexzy.git)
 
 A Modular Group management Bot on Sinhala
 
@@ -26,7 +26,7 @@ A Modular Group management Bot on Sinhala
 ```
 3) Click Deploy
 ```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prabhashapiumantha/CuteGirl.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prabhashapiumantha/Hexzy.git)
 ```
 3) Give an app name
 
