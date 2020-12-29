@@ -35,7 +35,7 @@ Available commands are:
     
 Hi {}, my name is {}! 
 
-I am a group manager bot🤿. \nCreated by, [My Master](tg://user?id={}) \nThe Based on Project Hexzy written by, \n[★彡ᵖⓡ𝓪Ｂ卄𝒶𝐒𝒽ค彡★](t.me/prabhasha999)
+I am a group manager bot🤿. \nCreated by, [My Master](tg://user?id={}) \nThe Based on Project [Hexzy](t.me/MissHexzy_Bot) written by, \n[★彡ᵖⓡ𝓪Ｂ卄𝒶𝐒𝒽ค彡★](t.me/prabhasha999)
 
 You can find the list of available commands with /help.
 
