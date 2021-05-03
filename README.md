@@ -1,8 +1,6 @@
 # The Cute Girl Robot
 All Errors are now fixed and the bot is working fine..
 
-![Hexzy](https://telegra.ph/file/23c40c8b88da2370e9743.jpg)
-
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/deshadeeth-thisarana/Rose-2.git)
