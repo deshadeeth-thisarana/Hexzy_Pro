@@ -5,7 +5,7 @@ All Errors are now fixed and the bot is working fine..
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prabhashapiumantha/Hexzy.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/deshadeeth-thisarana/Rose-2.git)
 
 A Modular Group management Bot on Sinhala
 
